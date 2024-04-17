@@ -1,21 +1,30 @@
-# Bienvenido/a a mi perfil de GitHub 👋
+# 💫 About Me:
+🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
 
-¡Hola! Soy Yasser, egresado de la carrera de Ingeniería de Software en SENATI. Poseo habilidades intermedias en HTML, CSS y Python, así como conocimientos básicos en JavaScript, PHP y Bootstrap. Durante mi formación, adquirí experiencia en la elaboración de diagramas UML y en el uso de la herramienta XAMPP. Además, he trabajado en la creación de chatbots utilizando Lanbot.
+---
+### 🐱My Github stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-## Sobre mí
-- 🔭 Busco oportunidades para aplicar y seguir desarrollando mis habilidades en proyectos desafiantes.
-- 🌱 Estoy ansioso por continuar aprendiendo y creciendo en un entorno profesional.
-- 💬 Me encanta colaborar en proyectos interesantes y aprender de otros/as desarrolladores/as.
-- 📫 Puedes contactarme a través de aspur.alejandro@outlook.com.
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
-## Experiencia y Habilidades
-- 💻 Habilidades técnicas: HTML, CSS, Python, JavaScript, PHP, Bootstrap.
-- 🛠️ Experiencia en la creación de chatbots con Lanbot.
-- 📊 Conocimientos en la elaboración de diagramas UML.
-- ⚙️ Experiencia en el uso de XAMPP para entornos de desarrollo web.
+```text
+🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
+🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
+🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
 
-## Objetivos futuros
-- ✨ Continuar aprendiendo y mejorando mis habilidades en el campo de la Ingeniería de Software.
-- 🌐 Contribuir a proyectos innovadores que desafíen mis capacidades y fomenten el crecimiento profesional.
+```
+📅 **I'm Most Productive on Sunday** 
 
-¡Gracias por visitar mi perfil! Espero poder conectarme y colaborar contigo en emocionantes proyectos.
+```text
+Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
+Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
+Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
+Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
+
+```
