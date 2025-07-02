@@ -25,7 +25,3 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BinaryBeginner&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
   </a>
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BinaryBeginner&theme=gruvbox&hide_border=true"/>
-</p>
