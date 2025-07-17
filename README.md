@@ -1,27 +1,51 @@
-### 💫 About Me:
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+<h2 align="left">Hola 👋 ¿Qué pasa?</h2>
 
-### 🛠 &nbsp;Tech Stack
+###
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<p align="left">🎯 Backend Developer en formación<br>Me encanta programar con C#, aprender nuevas tecnologías y crecer cada día en el mundo del desarrollo. Disfruto construir soluciones sólidas desde el backend, trabajar con bases de datos y automatizar procesos.<br><br>🍃 En mis momentos de desconexión, me relaja ver el atardecer mientras escucho buena música. Siempre en busca de equilibrio entre lo técnico y lo humano.</p>
 
----
-### ⚙️&nbsp;GitHub Analytics
+###
 
-<p align="center">
-  <a href="https://github.com/BinaryBeginner">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BinaryBeginner&show_icons=true&theme=gruvbox&hide_border=true=true"/>
-  </a>
-  <a href="https://github.com/BinaryBeginner">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BinaryBeginner&layout=compact&langs_count=8&theme=gruvbox&hide_border=true"/>
-  </a>
-</p>
+<h2 align="left">Acerca de mí</h2>
+
+###
+
+<p align="left">✨ Creando bugs desde 2019<br>📚 Actualmente estoy aprendiendo Java y C# 💻<br>🎯 Objetivos: vivir en un lugar frío ❄ y hablar inglés 🚀<br>🎲 Y... toco 🎸 la guitarra y ♟ el ajedrez online</p>
+
+###
+
+<h2 align="left">Yo codifico con</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binarybeginner/binarybeginner/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binarybeginner/binarybeginner/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/binarybeginner/binarybeginner/output/pacman-contribution-graph.svg">
+</picture>
+
+###
