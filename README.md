@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎯 Backend Developer en formación<br>Me encanta programar con C#, aprender nuevas tecnologías y crecer cada día en el mundo del desarrollo. Disfruto construir soluciones sólidas desde el backend, trabajar con bases de datos y automatizar procesos.<br><br>🍃 En mis momentos de desconexión, me relaja ver el atardecer mientras escucho buena música. Siempre en busca de equilibrio entre lo técnico y lo humano.</p>
+<p align="left">Hola soy Yasser desarrollador backend en formación desde Lima, Perú.</p>
 
 ###
 
