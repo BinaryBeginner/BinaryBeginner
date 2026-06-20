@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creando bugs desde 2019<br>📚 Actualmente estoy aprendiendo Java 💻<br>🎯 Objetivos: vivir en un lugar frío ❄ y hablar inglés 🚀<br>🎲 Y...aprender de forma autodidacta la guitarra y ♟ el ajedrez online</p>
+<p align="left">✨ Creando bugs desde 2019<br>📚 Actualmente estoy aprendiendo Java 💻<br>🎯 Objetivos: vivir en un lugar frío ❄ y hablar inglés 🚀<br>🎲 Y...aprender de forma autodidacta y ♟ jugar ajedrez online</p>
 
 ###
 
